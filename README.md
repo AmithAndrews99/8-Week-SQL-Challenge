@@ -24,7 +24,7 @@ Welcome to my repository for the **8 Week SQL Challenge**, a collection of 8 rea
 - Ranking purchases
 - Analyzing menu performance
 
-👉 [Danny's Diner Official Case Study]([https://8weeksqlchallenge.com/case-study-1/](https://github.com/AmithAndrews99/8-Week-SQL-Challenge/tree/main/SQL%20%7C%208%20Week%20Challenge/1.%20Danny's%20Dinner))
+👉 [Danny's Diner Official Case Study](https://8weeksqlchallenge.com/case-study-1/](https://github.com/AmithAndrews99/8-Week-SQL-Challenge/tree/main/SQL%20%7C%208%20Week%20Challenge/1.%20Danny's%20Dinner)
 
 ---
 
