@@ -3,7 +3,7 @@ This repository contains my solutions to the 8 Week SQL Challenge by Data With D
 
 # 🧠 8 Week SQL Challenge by Data With Danny
 
-Welcome to my repository for the **8 Week SQL Challenge**, a collection of 8 real-world SQL case studies designed by [Danny Ma](https://twitter.com/datawithdanny) to sharpen SQL and data analysis skills. Each week dives into a different business problem across various domains like hospitality, fintech, entertainment, and more.
+Welcome to my repository for the **8 Week SQL Challenge**, a collection of 8 real-world SQL case studies designed by [Danny Ma](https://8weeksqlchallenge.com/) to sharpen SQL and data analysis skills. Each week dives into a different business problem across various domains like hospitality, fintech, entertainment, and more.
 
 ---
 
@@ -24,7 +24,7 @@ Welcome to my repository for the **8 Week SQL Challenge**, a collection of 8 rea
 - Ranking purchases
 - Analyzing menu performance
 
-👉 [Danny's Diner Official Case Study](https://8weeksqlchallenge.com/case-study-1/)
+👉 [Danny's Diner Official Case Study]([https://8weeksqlchallenge.com/case-study-1/](https://github.com/AmithAndrews99/8-Week-SQL-Challenge/tree/main/SQL%20%7C%208%20Week%20Challenge/1.%20Danny's%20Dinner))
 
 ---
 
@@ -43,7 +43,7 @@ Welcome to my repository for the **8 Week SQL Challenge**, a collection of 8 rea
 - Calculating delivery times and costs
 - Analyzing customer and runner behavior
 
-👉 [Pizza Runner Official Case Study](https://8weeksqlchallenge.com/case-study-2/)
+👉 [Pizza Runner Official Case Study]([https://8weeksqlchallenge.com/case-study-2/](https://github.com/AmithAndrews99/8-Week-SQL-Challenge/tree/main/SQL%20%7C%208%20Week%20Challenge/2.Pizza%20Runner))
 
 ---
 
@@ -62,7 +62,7 @@ Welcome to my repository for the **8 Week SQL Challenge**, a collection of 8 rea
 - Revenue modeling
 - Plan performance analysis
 
-👉 [Foodie-Fi Official Case Study](https://8weeksqlchallenge.com/case-study-3/)
+👉 [Foodie-Fi Official Case Study]([https://8weeksqlchallenge.com/case-study-3/](https://github.com/AmithAndrews99/8-Week-SQL-Challenge/tree/main/SQL%20%7C%208%20Week%20Challenge/3.Project%20Foodie))
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to my repository for the **8 Week SQL Challenge**, a collection of 8 rea
 - Tracking transactions across months
 - Retention metrics
 
-👉 [Data Bank Official Case Study](https://8weeksqlchallenge.com/case-study-4/)
+👉 [Data Bank Official Case Study]([https://8weeksqlchallenge.com/case-study-4/](https://github.com/AmithAndrews99/8-Week-SQL-Challenge/tree/main/SQL%20%7C%208%20Week%20Challenge/4.Data_Bank))
 
 ---
 
@@ -117,7 +117,7 @@ Welcome to my repository for the **8 Week SQL Challenge**, a collection of 8 rea
 - Bounce rate computation
 - Campaign effectiveness
 
-👉 [Clique Bait Official Case Study](https://8weeksqlchallenge.com/case-study-6/)
+👉 [Clique Bait Official Case Study]([https://8weeksqlchallenge.com/case-study-6/](https://github.com/AmithAndrews99/8-Week-SQL-Challenge/tree/main/SQL%20%7C%208%20Week%20Challenge/5.Clique%20Bait))
 
 ---
 
@@ -135,7 +135,7 @@ Welcome to my repository for the **8 Week SQL Challenge**, a collection of 8 rea
 - Investment behavior patterns
 - Branch-level reporting
 
-👉 [Balanced Tree Official Case Study](https://8weeksqlchallenge.com/case-study-7/)
+👉 [Balanced Tree Official Case Study]([https://8weeksqlchallenge.com/case-study-7/](https://github.com/AmithAndrews99/8-Week-SQL-Challenge/tree/main/SQL%20%7C%208%20Week%20Challenge/6.balanced_tree_clothing))
 
 ---
 
@@ -153,7 +153,7 @@ Welcome to my repository for the **8 Week SQL Challenge**, a collection of 8 rea
 - Segment profiling
 - Ranking segments by interest
 
-👉 [Fresh Segments Official Case Study](https://8weeksqlchallenge.com/case-study-8/)
+👉 [Fresh Segments Official Case Study]([https://8weeksqlchallenge.com/case-study-8/](https://github.com/AmithAndrews99/8-Week-SQL-Challenge/tree/main/SQL%20%7C%208%20Week%20Challenge/7.Fresh%20Segments))
 
 ---
 
